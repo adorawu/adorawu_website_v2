@@ -27,7 +27,7 @@ function App() {
             </div>
         </nav>
 
-        <div class="landing_page">
+        <div class="landing_page" id="home">
           <h1 class="landing_page_text">hi. my name is</h1>
           <br></br>
           <h1 class="landing_page_name">Adora Wu</h1>
@@ -35,17 +35,17 @@ function App() {
           <h1 class="landing_page_text">Aspiring Software Engineer</h1>
         </div>
 
-        <div class="about page" id="about">
-            <div class="about-text">
-                <h2 class="fancy-text">about me</h2>
-                <p class="about-me-text">I'm a student currently attending the 
+        {/* <div class="about_page" id="about">
+            <div class="about_blurb">
+                <h2 class="about_header">about me</h2>
+                <p class="about_text">I'm a student currently attending the 
                     University of Texas at Austin pursuing chemistry and computer science. I'm passionate about technology, natural sciences, and design. In my free time I enjoy digital art, video games, and trying new recipies! 
                 </p>
             </div>
-            <div class="about-pic">
+            <div class="about_pic">
                 <img class="headshot" src="headshot.jpg" alt="A picture of me"></img>
             </div>
-        </div>
+        </div> */}
 
 
       </div>
